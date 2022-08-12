@@ -1,7 +1,6 @@
 ### Hi there 👋 My name is Sagar
 
 I am a student of IIT Kharagpur.I am a explorer who love technology. Since past 3 years, i have been working with some popular technologies such as : Flutter,Unity3D,ReactJS,Figma and ExpressJS.
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a freelancer for designing ui/ux as well as the application on Flutter.
 <!-- - 🌱 I’m currently learning ... -->
