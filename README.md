@@ -8,8 +8,7 @@ I am a student of IIT Kharagpur.I am a explorer who love technology. Since past 
 - 🤔 I’m looking for some cool projects/opportunities.
 <!--  -->
 - 💻 Website - https://sagarsuman1299.github.io/
-- Support me ☕: https://www.buymeacoffee.com/sagarsuman 
-- Support me ☕: https://www.buymeacoffee.com/sagarsuman       
+- Support me ☕: https://www.buymeacoffee.com/sagarsuman    
 
 
 
